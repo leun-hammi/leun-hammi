@@ -2,8 +2,7 @@ Hi! I'm Leun Hammi 👋 ❤️
 I'm currently focused on mastering Python and HTML...
 
 🔭 I'm an aspiring tech enthusiast excited to explore and grow in areas like:  
-• Web Development  
-• Java  
+• Web Development    
 • Robotics  
 • Machine Learning  
 • Cybersecurity  
